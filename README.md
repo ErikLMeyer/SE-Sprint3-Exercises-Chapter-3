@@ -9,5 +9,5 @@ node_modules by Node. All other code by Ethan Brown from textbook.
 
 Required files:
 
-Chapter 3: meadowlark.js, home.handlebars, about.handlebars, 500.handlebars, 404.handlebars, 
+meadowlark.js, home.handlebars, about.handlebars, 500.handlebars, 404.handlebars, 
     main.handlebars, logo.png
