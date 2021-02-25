@@ -33,6 +33,9 @@ app.get('/about', (req, res) => {
     res.render('about', {fortune: randomFortune});
 })
 
+// My secret page -EM
+app.get('/secret', (req, res) => res.render('secret'));
+
 // Custom 404 page
 app.use((req, res) => {
     res.status(404);
